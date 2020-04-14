@@ -1,8 +1,8 @@
 {
-  "name": "demo2",
+  "name": "electron-react-init",
   "version": "0.1.0",
   "private": true,
-  "description": "A minimal Electron application",
+  "description": "A Electron init application with create-react-app",
   "main": "main.js",
   "homepage": "./",
   "dependencies": {
